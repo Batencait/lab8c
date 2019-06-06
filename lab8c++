@@ -128,4 +128,5 @@ void main()
 	lst.Del();
 	
 	lst.Print();
+	return 0;
 }
